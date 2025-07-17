@@ -6,7 +6,7 @@ print ("Subraction(-):",a-b)           #Subraction(-): 10
 print("Multiplication(*):",a*b)        # Multiplication(*): 200
 print("Division (/):,a/b")             # Division (/):,a/b 
 print("Floordivision(//):",a//b)       #Floordivision(//): 2
-print("Modules(%):",a%b)               #Modules(%): 0
+print("Modules(%):",a%b)               #Modules(%)
 print("exponenation(**):",a**b)        #exponenation(**): 10240000000000
 
 #2.comparison operators                                                                                                                                                                                                                                                                       
@@ -47,7 +47,7 @@ print("NOT:",a%4==0)                          #NOT: True
 #list
 L=["Bhavana","Hema","safna"",Mounika"]
 print("Hema" in L)                           #statement True
-print("vishva" not in L)                     #statement True
+print("vyshnavi" not in L)                     #statement True
 print("bhavana" in L)                        #statement False
 #set
 S={1,2,3,4,5,6}
@@ -55,7 +55,7 @@ print(3 in S)                   #statement True
 print(8 not in S)               #statement True
 print(0  in S)                  #statement False
 
-#tuple 
+#Tuple
 t=[1,3,4,5,6]
 print(7 in t)               #statement False
 print(3 in t)               #statement True 
@@ -76,3 +76,4 @@ a=b
 print(a is c)                             # statement False
 print(b is a)                             #statement true
 print(c not in a)                         #statement True
+
